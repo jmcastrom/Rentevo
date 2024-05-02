@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Pent House en Yolombó",
+    "owner": "Juan Miguel Castro ",
+    "description": "Bonita casa mela en Yolombó, 34m2, 4 habitaciones.",
+    "location": "Yolombó, Antioquia",
+    "image": "https://images.unsplash.com/photo-1623050804066-42bcedb4e81d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2371&q=80",
+    "price": 1000000,
+    "email": "juanmi@gmail.com",
+    "phone": "3103827633",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Casa mela en Bello",
+    "owner": "Santiago Gallego",
+    "location": "Bello, Antioquia",
+    "description": "Casa Lujosa en los Alpes de Bello.",
+    "image": "https://images.unsplash.com/photo-1638929798283-3df3a0c7e039?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2369&q=80",
+    "price": 900000,
+    "email": "example@gmail.com",
+    "phone": "3134827633",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Apartemento junto al rio",
+    "owner": "Alberto Díaz",
+    "location": "Medellín, Antioquia",
+    "description": "Casa Idilica junto al río Medellín.",
+    "image": "https://images.unsplash.com/photo-1644027622521-d0ca669c40d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80",
+    "price": 1500000,
+    "email": "example@gmail.com",
+    "phone": "3134827633",
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "name": "Casa Poblado",
+    "owner": "Jairo Hernández",
+    "location": "Medellín, Antioquia",
+    "description": "Casa bonita en el Poblao.",
+    "image": "https://images.unsplash.com/photo-1629078691977-dc51747c0263?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2369&q=80",
+    "price": 1200000,
+    "email": "example@gmail.com",
+    "phone": "3134827633",
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "name": "Bloque 12 - Dllo Art.",
+    "owner": "Juan Miguel Castro",
+    "location": "Eafit, Medellín, Antioquia",
+    "description": "Bloque en arriendo.",
+    "image": "https://images.unsplash.com/photo-1559599189-fe84dea4eb79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2369&q=80",
+    "price": 200000,
+    "email": "example@gmail.com",
+    "phone": "3134827633",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "name": "Casa Rustica En Niquía",
+    "owner": "Juan Miguel Castro",
+    "location": "Bello, Antioquia",
+    "description": "Casa rústica en el cerro Quitasol.",
+    "image": "https://images.unsplash.com/photo-1620332372374-f108c53d2e03?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1772&q=80",
+    "price": 700000,
+    "email": "example@gmail.com",
+    "phone": "3134827633",
+    "rating": 4.4
+  },
+  {
+    "id": 8,
+    "name": "casa camacol",
+    "owner": "nelly martinez",
+    "description": "excelente casa completamente, terminada,  con buenas comodidades, sala comedor, 3 alcobas, cocina integra, baños  ",
+    "location": "bello, antioquia",
+    "image": "https://images.unsplash.com/photo-1644027622521-d0ca669c40d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80",
+    "price": 700000,
+    "email": "namaga555@hotmail.com",
+    "phone": "3218976352",
+    "rating": 4
+  }
+]
